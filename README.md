@@ -23,4 +23,4 @@ HHM Clothing is dedicated to providing fashion-forward clothing options for men,
 - **Shopping Cart**: Easy management of items for checkout.
 - **Secure Payment Gateway**: Multiple payment options for safe transactions.
 - **User Accounts**: Create and manage personal accounts for a tailored shopping experience.
-- **Blog Section**: Stay updated with the latest fashion trends and news.
+- **Blog Section**: Stay updated with the latest fashion trends and news. CHEC THE LINK BELOW https://dev-hhm-clothing.pantheonsite.io/

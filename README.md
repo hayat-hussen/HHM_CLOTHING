@@ -1,7 +1,7 @@
 # HHM_CLOTHING
 
 Welcome to the HHM Clothing WordPress website! This online store offers a wide range of stylish and affordable clothing for all occasions. Our platform is designed to provide a user-friendly shopping experience.
-![Alt text](image_url)
+![Alt text](https://github.com/hayat-hussen/HHM_CLOTHING/blob/main/Screenshot%20(97).png)
 ## Table of Contents
 
 - [About HHM Clothing](#about-hhm-clothing)
